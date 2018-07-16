@@ -21,7 +21,6 @@ curl -O https://raw.githubusercontent.com/codefellows/seattle-javascript-401d25/
 curl -O https://raw.githubusercontent.com/codefellows/seattle-javascript-401d25/master/00-FRONTEND-lab-scaffold-template/.eslintrc.json
 curl -O https://raw.githubusercontent.com/codefellows/seattle-javascript-401d25/master/00-FRONTEND-lab-scaffold-template/.gitignore
 curl -O https://raw.githubusercontent.com/codefellows/seattle-javascript-401d25/master/00-FRONTEND-lab-scaffold-template/.travis.yml
-
 curl -O https://raw.githubusercontent.com/codefellows/seattle-javascript-401d25/master/00-FRONTEND-lab-scaffold-template/webpack.common.js
 curl -O https://raw.githubusercontent.com/codefellows/seattle-javascript-401d25/master/00-FRONTEND-lab-scaffold-template/webpack.dev.js
 curl -O https://raw.githubusercontent.com/codefellows/seattle-javascript-401d25/master/00-FRONTEND-lab-scaffold-template/webpack.prod.js
