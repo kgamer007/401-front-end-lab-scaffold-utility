@@ -6,8 +6,8 @@
 mv README.md LAB.md
 
 mkdir src
-mkdir /src/components
-mkdir /src/styles
+mkdir src/components
+mkdir src/styles
 
 touch src/main.js
 touch src/style/main.scss
