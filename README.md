@@ -8,9 +8,11 @@ mv README.md LAB.md
 mkdir src
 mkdir src/components
 mkdir src/style
+mkdir src/lib
 
 touch src/main.js
 touch src/style/main.scss
+touch src/lib/utils.js
 
 npm init -y
 
