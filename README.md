@@ -71,7 +71,7 @@ you have to open the package.json file and copy paste this JSON directly nested 
     "webpack-merge": "^4.1.3"
   },
   "dependencies": {
-    "dotenv": "^6.0.0"
+    "dotenv": "^6.0.0",
     "superagent": "^3.8.3"
   }
 ```
