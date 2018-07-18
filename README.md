@@ -8,9 +8,11 @@ mv README.md LAB.md
 mkdir src
 mkdir src/components
 mkdir src/style
+mkdir src/lib
 
 touch src/main.js
 touch src/style/main.scss
+touch src/lib/utils.js
 
 npm init -y
 
@@ -58,6 +60,7 @@ you have to open the package.json file and copy paste this JSON directly nested 
     "jest": "^23.4.0",
     "mini-css-extract-plugin": "^0.4.1",
     "node-sass": "^4.9.2",
+    "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "sass-loader": "^7.0.3",
@@ -68,7 +71,8 @@ you have to open the package.json file and copy paste this JSON directly nested 
     "webpack-merge": "^4.1.3"
   },
   "dependencies": {
-    "dotenv": "^6.0.0"
+    "dotenv": "^6.0.0",
+    "superagent": "^3.8.3"
   }
 ```
 
